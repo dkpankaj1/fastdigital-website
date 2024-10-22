@@ -6,16 +6,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description"
-        content="FastDigital - Your Trusted Partner for Website Development, Hosting Services, and B2B Solutions." />
+        content="NicePe - Your Trusted Partner for Website Development, Hosting Services, and B2B Solutions." />
     <meta name="keywords"
-        content="FastDigital, web development, hosting, B2B solutions, 24/7 support, digital solutions" />
+        content="NicePe, web development, hosting, B2B solutions, 24/7 support, digital solutions" />
     <meta name="author" content="Cortex It Solution" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Title of Site -->
-    <title>FastDigital - Comprehensive Web Solutions for Your Business</title>
+    <title>NicePe - Comprehensive Web Solutions for Your Business</title>
 
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="{{ asset('assets/img/favicon-1.png') }}" />
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/favicon.png') }}" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
     <!-- Font Awesome CSS -->
@@ -50,7 +50,7 @@
                 <div class="col-xl-7 col-md-7">
                     <div class="top__bar-left">
                         <a href="tel:(629)555-0129"><i class="fas fa-phone-alt"></i>+91 8083776655</a>
-                        <a href="mailto:nicepayhelp@gmail.com"><i class="fas fa-envelope"></i>support@fastdigital.in</a>
+                        <a href="mailto:support@allnice.in"><i class="fas fa-envelope"></i>support@allnice.in</a>
                     </div>
                 </div>
                 <div class="col-xl-5 col-md-5">

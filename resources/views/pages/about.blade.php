@@ -52,9 +52,9 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>About FastDigital</h2>
+                        <h2>About NicePe</h2>
                         <p style="text-align: justify">
-                            FastDigital, managed by Rahul Enterprises and led by Rahul
+                            NicePe, managed by Rahul Enterprises and led by Rahul
                             Kumar, is your trusted partner for comprehensive web solutions.
                             We specialize in website development, hosting services, and B2B
                             solutions, all designed to empower businesses in the digital
@@ -69,7 +69,7 @@
                             and succeed.
                         </p>
                         <p style="text-align: justify">
-                            At FastDigital, we pride ourselves on providing 24/7 help and
+                            At NicePe, we pride ourselves on providing 24/7 help and
                             support for all our services. Whether you have a question, need
                             assistance, or require technical support, our dedicated team is
                             always here to help. We believe in a customer-centric approach,
@@ -80,7 +80,7 @@
                 </div>
             </div>
             <p class="mt-5" style="text-align: justify">
-                Partner with FastDigital and experience the benefits of expert
+                Partner with NicePe and experience the benefits of expert
                 management, innovative solutions, and unparalleled support. Our
                 commitment to your success goes beyond just providing services; we
                 strive to build lasting partnerships that drive growth and innovation.

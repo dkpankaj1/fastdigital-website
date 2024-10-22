@@ -8,7 +8,7 @@
                         <span class="subtitle-two">Innovating The Future</span>
                         <h2>Transforming Ideas into Reality</h2>
                         <p>
-                            At FastDigital, we create stunning websites, offer reliable
+                            At NicePe, we create stunning websites, offer reliable
                             hosting, and deliver B2B solutions to elevate your business.
                             Let’s grow your online presence!.
                         </p>
@@ -59,9 +59,9 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>We Are FastDigital in Digital Solutions</h2>
+                        <h2>We Are NicePe in Digital Solutions</h2>
                         <p>
-                            FastDigital, managed by Rahul Enterprises and led by Rahul
+                            NicePe, managed by Rahul Enterprises and led by Rahul
                             Kumar, is your go-to partner for comprehensive web solutions. We
                             specialize in website development, hosting services, and B2B
                             solutions, all designed to empower businesses in the digital
@@ -142,7 +142,7 @@
                         <div class="services__four-single-service-content">
                             <h4>B2B Web Solutions</h4>
                             <p>
-                                FastDigital provide Pre-built applications that optimize
+                                NicePe provide Pre-built applications that optimize
                                 operations and enhance productivity.
                             </p>
                         </div>
@@ -175,9 +175,9 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Transform Your Business with FastDigital Solutions</h2>
+                            <h2>Transform Your Business with NicePe Solutions</h2>
                             <p>
-                                At FastDigital, we prioritize your success with innovative
+                                At NicePe, we prioritize your success with innovative
                                 solutions, dedicated support, and a commitment to quality. Our
                                 team of experts understands your unique needs and provides
                                 tailored services that drive results. Partner with us for a
@@ -293,7 +293,7 @@
                             <h2>Web Hosting</h2>
                             <p>
                                 Experience lightning-fast, secure web hosting with
-                                FastDigital. Our reliable infrastructure ensures your website
+                                NicePe. Our reliable infrastructure ensures your website
                                 is always up and running, providing a seamless experience for
                                 your users. With scalable solutions, we grow with you,
                                 ensuring optimal performance no matter your traffic.

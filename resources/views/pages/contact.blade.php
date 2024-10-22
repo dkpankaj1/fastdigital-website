@@ -41,7 +41,7 @@
                             <p>
                                 We’d love to hear from you! Whether you have questions about
                                 our services, need assistance, or want to discuss your
-                                project, our team is here to help. At FastDigital, we believe
+                                project, our team is here to help. At NicePe, we believe
                                 that every conversation is an opportunity to build
                                 relationships and provide value.
                             </p>
@@ -101,7 +101,7 @@
                             </div>
                             <div class="contact__two-single-info-content">
                                 <h4>Email</h4>
-                                <span>support@fastdigital.in</span>
+                                <span>support@allnice.in</span>
                             </div>
                         </div>
                         <div class="contact__two-single-info">
