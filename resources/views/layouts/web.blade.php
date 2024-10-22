@@ -5,12 +5,13 @@
     <!-- Start Meta -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="Bantec - IT Service & Technology HTML5 Template" />
-    <meta name="keywords" content="Creative, Digital, multipage, landing, freelancer template" />
-    <meta name="author" content="ThemeOri" />
+    <meta name="description" content="FastDigital - Your Trusted Partner for Website Development, Hosting Services, and B2B Solutions." />
+    <meta name="keywords" content="FastDigital, web development, hosting, B2B solutions, 24/7 support, digital solutions" />
+    <meta name="author" content="Cortex It Solution" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Title of Site -->
-    <title>Bantec - IT Service & Technology HTML5 Template</title>
+    <title>FastDigital - Comprehensive Web Solutions for Your Business</title>
+    
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="{{asset('assets/img/favicon-1.png')}}" />
     <!-- Bootstrap CSS -->
