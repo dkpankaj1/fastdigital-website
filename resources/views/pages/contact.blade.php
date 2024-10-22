@@ -101,7 +101,7 @@
                             </div>
                             <div class="contact__two-single-info-content">
                                 <h4>Email</h4>
-                                <span>nicepayhelp@gmail.com</span>
+                                <span>support@fastdigital.in</span>
                             </div>
                         </div>
                         <div class="contact__two-single-info">

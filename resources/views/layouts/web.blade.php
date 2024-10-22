@@ -5,33 +5,35 @@
     <!-- Start Meta -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="FastDigital - Your Trusted Partner for Website Development, Hosting Services, and B2B Solutions." />
-    <meta name="keywords" content="FastDigital, web development, hosting, B2B solutions, 24/7 support, digital solutions" />
+    <meta name="description"
+        content="FastDigital - Your Trusted Partner for Website Development, Hosting Services, and B2B Solutions." />
+    <meta name="keywords"
+        content="FastDigital, web development, hosting, B2B solutions, 24/7 support, digital solutions" />
     <meta name="author" content="Cortex It Solution" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Title of Site -->
     <title>FastDigital - Comprehensive Web Solutions for Your Business</title>
-    
+
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="{{asset('assets/img/favicon-1.png')}}" />
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/favicon-1.png') }}" />
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
     <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/all.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/all.css') }}" />
     <!-- Flat Icon CSS -->
-    <link rel="stylesheet" href="{{asset('assets/webfonts/flat-icon/flaticon_bantec.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/webfonts/flat-icon/flaticon_bantec.css') }}" />
     <!-- Animate CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/animate.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}" />
     <!-- Swiper Bundle CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/swiper-bundle.min.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}" />
     <!-- Slick CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/slick.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/slick.css') }}" />
     <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}" />
     <!-- Mean Menu CSS -->
-    <link rel="stylesheet" href="{{asset('assets/css/meanmenu.min.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.min.css') }}" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{asset('assets/sass/style.css')}}" />
+    <link rel="stylesheet" href="{{ asset('assets/sass/style.css') }}" />
 </head>
 
 <body>
@@ -48,7 +50,7 @@
                 <div class="col-xl-7 col-md-7">
                     <div class="top__bar-left">
                         <a href="tel:(629)555-0129"><i class="fas fa-phone-alt"></i>+91 8083776655</a>
-                        <a href="mailto:nicepayhelp@gmail.com"><i class="fas fa-envelope"></i>nicepayhelp@gmail.com</a>
+                        <a href="mailto:nicepayhelp@gmail.com"><i class="fas fa-envelope"></i>support@fastdigital.in</a>
                     </div>
                 </div>
                 <div class="col-xl-5 col-md-5">
@@ -76,18 +78,18 @@
                     <div class="header__area-menubar-center-menu menu-responsive">
                         <ul id="mobilemenu">
                             <li class="">
-                                <a href="{{route('home')}}">Home</a>
+                                <a href="{{ route('home') }}">Home</a>
                             </li>
                             <li class="">
-                                <a href="{{route('about')}}">About Us</a>
-                            </li>
-
-                            <li class="">
-                                <a href="{{route('services')}}">Services</a>
+                                <a href="{{ route('about') }}">About Us</a>
                             </li>
 
                             <li class="">
-                                <a href="{{route('contact')}}">Contact</a>
+                                <a href="{{ route('services') }}">Services</a>
+                            </li>
+
+                            <li class="">
+                                <a href="{{ route('contact') }}">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -100,7 +102,7 @@
     </div>
     <!-- Header Area End -->
 
-    {{$slot}}
+    {{ $slot }}
 
     <!-- Footer Two Area Start -->
     <div class="footer__four">
@@ -127,13 +129,13 @@
                         <div class="footer__four-widget-solution">
                             <ul>
                                 <li>
-                                    <a href="{{route('services')}}">Hosting Solution</a>
+                                    <a href="{{ route('services') }}">Hosting Solution</a>
                                 </li>
                                 <li>
-                                    <a href="{{route('services')}}">Website Development</a>
+                                    <a href="{{ route('services') }}">Website Development</a>
                                 </li>
                                 <li>
-                                    <a href="{{route('services')}}">B2B Web Solution</a>
+                                    <a href="{{ route('services') }}">B2B Web Solution</a>
                                 </li>
                             </ul>
                         </div>
@@ -144,9 +146,9 @@
                         <h4>Quick Links</h4>
                         <div class="footer__four-widget-solution">
                             <ul>
-                                <li><a href="{{route('about')}}">About</a></li>
-                                <li><a href="{{route('services')}}">Service</a></li>
-                                <li><a href="{{route('contact')}}">Contact US</a></li>
+                                <li><a href="{{ route('about') }}">About</a></li>
+                                <li><a href="{{ route('services') }}">Service</a></li>
+                                <li><a href="{{ route('contact') }}">Contact US</a></li>
                             </ul>
                         </div>
                     </div>
@@ -154,7 +156,7 @@
                 <div class="col-xl-3 col-md-6 col-sm-7 xl-mb-30">
                     <div class="footer__four-widget">
                         <div class="footer__four-widget-about">
-                            <a href="#"><img src="{{asset('assets/img/logo-light.png')}}" alt="image" /></a>
+                            <a href="#"><img src="{{ asset('assets/img/logo-light.png') }}" alt="image" /></a>
                             <p>
                                 Create stunning websites, offer reliable hosting, and deliver
                                 B2B solutions
@@ -169,12 +171,12 @@
                 <div class="row justify-content-between copyright__one-container-area">
                     <div class="col-xl-5 col-lg-6">
                         <div class="copyright__one-left">
-                            <p>Manage By Rahul Kumar | All Rights Reserved</p>
+                            <p>© 2024 RAHUL ENTERPRISES - All Rights Reserved.</p>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6">
                         <div class="copyright__one-right">
-                            <a href="{{route('contact')}}">Contact Us</a>
+                            <a href="{{ route('contact') }}">Contact Us</a>
                         </div>
                     </div>
                 </div>
